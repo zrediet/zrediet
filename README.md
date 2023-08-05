@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <img width=100% src="img/welcome.svg" color="00bfbf">
+    <img width=100% src="[img/welcome.svg](https://img.wattpad.com/33e861305c505838216f499500f72b426274f616/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7152304337574e377046637443673d3d2d313031313635373635322e313636303630386663326532333766643931313336393239353432322e676966)" color="00bfbf">
 
 ![](https://komarev.com/ghpvc/?username=zrediet)
 <img src="https://img.shields.io/badge/Rediet%20Zewdu-is%20Available for a Remote Work-greenyellow" />
