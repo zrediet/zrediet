@@ -50,7 +50,7 @@
 
 | My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Rediet Git Status](https://github-readme-stats.vercel.app/api?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelakuDemeke&show_icons=true&theme=dark&hide_title=true) | ![Rediet](https://github-readme-streak-stats.herokuapp.com/?user=MelakuDemeke&theme=dark) |
+| ![Rediet Git Status](https://github-readme-stats.vercel.app/api?username=zrediet&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrediet&show_icons=true&theme=dark&hide_title=true) | ![Rediet](https://github-readme-streak-stats.herokuapp.com/?user=zrediet&theme=dark) |
 
 <img src="img/aqua.png" width="1000">
 
@@ -70,28 +70,28 @@
             <td align=center>1</td>
             <td>
                 <a 
-                    href="https://github.com/MelakuDemeke/telebirr-php" 
+                    href="https://github.com/zrediet/shope" 
                     target="_blank">
-                    <b>Telebirr Library for PHP</b>
+                    <b>Flutter Shope UI</b>
                 </a>
             </td>
             <td align=center>PHP</td>
             <td>
                 <img 
                     alt=Stars
-                    src="https://img.shields.io/github/stars/MelakuDemeke/telebirr-php?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/stars/zrediet/telebirr-php?style=flat-square&labelColor=343b41">
             </td>
             <td>
                 <img 
                     alt=Forks
-                    src="https://img.shields.io/github/forks/MelakuDemeke/telebirr-php?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/forks/zrediet/telebirr-php?style=flat-square&labelColor=343b41">
             </td>
         </tr>
         <tr>
             <td align=center>2</td>
             <td>
                 <a 
-                    href="https://github.com/MelakuDemeke/telebirr" 
+                    href="https://github.com/zrediet/telebirr" 
                     target="_blank">
                     <b>Telebirr Helper</b>
                 </a>
@@ -100,19 +100,19 @@
             <td>
                 <img 
                     alt=Stars
-                    src="https://img.shields.io/github/stars/MelakuDemeke/telebirr?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/stars/zrediet/telebirr?style=flat-square&labelColor=343b41">
             </td>
             <td>
                 <img 
                     alt=Forks
-                    src="https://img.shields.io/github/forks/MelakuDemeke/telebirr?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/forks/zrediet/telebirr?style=flat-square&labelColor=343b41">
             </td>
         </tr>
         <tr>
             <td align=center>3</td>
             <td>
                 <a 
-                    href="https://github.com/MelakuDemeke/tindog" 
+                    href="https://github.com/zrediet/tindog" 
                     target="_blank">
                     <b>tindog tinder clone</b>
                 </a>
@@ -121,19 +121,19 @@
             <td>
                 <img 
                     alt=Stars
-                    src="https://img.shields.io/github/stars/MelakuDemeke/tindog?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/stars/zrediet/tindog?style=flat-square&labelColor=343b41">
             </td>
             <td>
                 <img 
                     alt=Forks
-                    src="https://img.shields.io/github/forks/MelakuDemeke/tindog?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/forks/zrediet/tindog?style=flat-square&labelColor=343b41">
             </td>
         </tr>
         <tr>
             <td align=center>4</td>
             <td>
                 <a 
-                    href="https://github.com/MelakuDemeke/blog-web" 
+                    href="https://github.com/zrediet/blog-web" 
                     target="_blank">
                     <b>blog-web Helper</b>
                 </a>
@@ -142,12 +142,12 @@
             <td>
                 <img 
                     alt=Stars
-                    src="https://img.shields.io/github/stars/MelakuDemeke/blog-web?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/stars/zrediet/blog-web?style=flat-square&labelColor=343b41">
             </td>
             <td>
                 <img 
                     alt=Forks
-                    src="https://img.shields.io/github/forks/MelakuDemeke/blog-web?style=flat-square&labelColor=343b41">
+                    src="https://img.shields.io/github/forks/zrediet/blog-web?style=flat-square&labelColor=343b41">
             </td>
         </tr>
     </tbody>
