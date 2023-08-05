@@ -19,7 +19,7 @@
             target="_blank"/>
     </a>
     <a 
-        href="https://www.instagram.com/m314ku/">
+        href="https://www.instagram.com/redizewd/">
         <img 
             src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" 
             target="_blank"/>
