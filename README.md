@@ -1,169 +1,39 @@
-<!DOCTYPE html>
-<html>
-<body>
-    <img width=100% src="[img/welcome.svg](https://img.wattpad.com/33e861305c505838216f499500f72b426274f616/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f7152304337574e377046637443673d3d2d313031313635373635322e313636303630386663326532333766643931313336393239353432322e676966)" color="00bfbf">
+Hi 👋 My name is Rediet Zewdu
+=============================
 
-![](https://komarev.com/ghpvc/?username=zrediet)
-<img src="https://img.shields.io/badge/Rediet%20Zewdu-is%20Available for a Remote Work-greenyellow" />
+Full Stack Developer
+--------------------
 
-<div align="center">
+"Passionate Full Stack Developer 🚀 | Turning ideas into reality through code 💻 | Constantly learning and exploring new technologies 🌟 | Building intuitive and scalable web applications with love ❤️ | Open source enthusiast 🌐 | Let's collaborate and create something amazing together! 🤝"
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I+am+a+software+developer)](https://git.io/typing-svg)
-
-</div>
-<p align="center">
-    <a 
-        href="https://www.linkedin.com/in/rediet-zewdu-5a298014a/">
-        <img 
-            src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" 
-            target="_blank"/>
-    </a>
-    <a 
-        href="https://www.instagram.com/redizewd/">
-        <img 
-            src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" 
-            target="_blank"/>
-        </a>
-    <a 
-        href="https://mailto:redietzewdu12@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-            target="_blank"/>
-        </a>
-    <p 
-        align="center">
-        <a 
-            href="https://github.com/zrediet">
-            <img 
-                alt="followers" 
-                title="Follow me on Github" 
-                src="https://img.shields.io/github/followers/zrediet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" 
-                target="_blank"/>
-        </a>
-    </p>
-</p>
-
-<img src="img/aqua.png" width="1000">
-<p align="center">
-
- <h2 align="center">My Github Stats</h2>
-
-| My github statistics                                                                                                                                                  | Most used languages                                                                                                                                                   | Streaks                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| ![Rediet Git Status](https://github-readme-stats.vercel.app/api?username=zrediet&show_icons=true&theme=dark&hide_title=true&count_private=true) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zrediet&show_icons=true&theme=dark&hide_title=true) | ![Rediet](https://github-readme-streak-stats.herokuapp.com/?user=zrediet&theme=dark) |
-
-<img src="img/aqua.png" width="1000">
-
-<h2 align="center">Project</h2>
-<table align="center">
-    <thead align=center>
-        <tr border: none>
-            <td><b>📇 Index</b></td>
-            <td><b>🛄 Projects</b></td>
-            <td><b>👨‍💻 Technology Used</b></td>
-            <td><b>⭐ Stars</b></td>
-            <td><b>🍴 Forks</b></td>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td align=center>1</td>
-            <td>
-                <a 
-                    href="https://github.com/zrediet/shope" 
-                    target="_blank">
-                    <b>Flutter Shope UI</b>
-                </a>
-            </td>
-            <td align=center>PHP</td>
-            <td>
-                <img 
-                    alt=Stars
-                    src="https://img.shields.io/github/stars/zrediet/telebirr-php?style=flat-square&labelColor=343b41">
-            </td>
-            <td>
-                <img 
-                    alt=Forks
-                    src="https://img.shields.io/github/forks/zrediet/telebirr-php?style=flat-square&labelColor=343b41">
-            </td>
-        </tr>
-        <tr>
-            <td align=center>2</td>
-            <td>
-                <a 
-                    href="https://github.com/zrediet/telebirr" 
-                    target="_blank">
-                    <b>Telebirr Helper</b>
-                </a>
-            </td>
-            <td align=center>PHP | CSS | Js | Bootstrap</td>
-            <td>
-                <img 
-                    alt=Stars
-                    src="https://img.shields.io/github/stars/zrediet/telebirr?style=flat-square&labelColor=343b41">
-            </td>
-            <td>
-                <img 
-                    alt=Forks
-                    src="https://img.shields.io/github/forks/zrediet/telebirr?style=flat-square&labelColor=343b41">
-            </td>
-        </tr>
-        <tr>
-            <td align=center>3</td>
-            <td>
-                <a 
-                    href="https://github.com/zrediet/tindog" 
-                    target="_blank">
-                    <b>tindog tinder clone</b>
-                </a>
-            </td>
-            <td align=center>HTML | CSS | Js | Bootstrap</td>
-            <td>
-                <img 
-                    alt=Stars
-                    src="https://img.shields.io/github/stars/zrediet/tindog?style=flat-square&labelColor=343b41">
-            </td>
-            <td>
-                <img 
-                    alt=Forks
-                    src="https://img.shields.io/github/forks/zrediet/tindog?style=flat-square&labelColor=343b41">
-            </td>
-        </tr>
-        <tr>
-            <td align=center>4</td>
-            <td>
-                <a 
-                    href="https://github.com/zrediet/blog-web" 
-                    target="_blank">
-                    <b>blog-web Helper</b>
-                </a>
-            </td>
-            <td align=center>Node.js | ejs | Mongo | Express</td>
-            <td>
-                <img 
-                    alt=Stars
-                    src="https://img.shields.io/github/stars/zrediet/blog-web?style=flat-square&labelColor=343b41">
-            </td>
-            <td>
-                <img 
-                    alt=Forks
-                    src="https://img.shields.io/github/forks/zrediet/blog-web?style=flat-square&labelColor=343b41">
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-
-<img src="img/aqua.png" width="1000">
-<h2 align="center">GitHub Metrics</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zrediet&theme=algolia" align="center" />
-</p>
-
-</body>
-<footer>
-	<img 
-        width=100% 
-        src="img/footer.svg"/>
-</footer>
-</html>
+*   🌍  I'm based in Addis Ababa
+*   ✉️  You can contact me at [redietzewdu12@gmail.com](mailto:redietzewdu12@gmail.com)
+*   🧠  I'm learning Cyber Security<a href="https://www.github.com/zrediet" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/zrediet?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>### Skills 
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p> 
+### Socials
+               <p align="left">                          
+                      <a href="https://www.github.com/zrediet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>                          
+                      <a href="http://www.instagram.com/redizewd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>                          
+                      <a href="https://www.linkedin.com/in/rediet-zewdu-5a298014a" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/zrediet"><img src="https://github-readme-stats.vercel.app/api?username=zrediet&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zrediet's GitHub stats" /></a><a
+                      href="http://www.github.com/zrediet"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=zrediet&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
+                      href="http://www.github.com/zrediet"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=zrediet&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/zrediet" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zrediet&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
